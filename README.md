@@ -1,4 +1,4 @@
-# calendar_plus
+# calendar with bloc
 
 A new Flutter project.
 
